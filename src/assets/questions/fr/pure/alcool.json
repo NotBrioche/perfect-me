@@ -1,0 +1,126 @@
+[
+    {
+        "title": "Avez vous déjà bu de l'alcool?",
+        "points": 1,
+        "id": "alc"
+    },
+    {
+        "title": "Avez vous déjà vomi à cause de l'alcool",
+        "points": 2,
+        "lockedBy": "alc"
+    },
+    {
+        "title": "Avez vous déjà fait un coma éthylique?",
+        "points": 3,
+        "lockedBy": "alc"
+    },
+    {
+        "title": "Quel a été votre plus grand mélange?",
+        "answers": [
+            {
+                "title": "1",
+                "points": 0
+            },
+            {
+                "title": "2",
+                "points": 1
+            },
+            {
+                "title": "3",
+                "points": 2
+            },
+            {
+                "title": "4",
+                "points": 3
+            },
+            {
+                "title": "5",
+                "points": 4
+            },
+            {
+                "title": "6+",
+                "points": 6
+            }
+        ],
+        "lockedBy": "alc"
+    },
+    {
+        "title": "Est-ce que quelqu'un d'externe à déjà du intervenir pour vous aider à cause de l'alcool?",
+        "points": 2,
+        "lockedBy": "alc"
+    },
+    {
+        "title": "Finissez vous vos soirés dans un plutôt bon état?",
+        "yesIsBad": false,
+        "points": 1,
+        "lockedBy": "alc"
+    },
+    {
+        "title": "Buvez vous généralement seul?",
+        "points": 3,
+        "lockedBy": "alc"
+    },
+    {
+        "title": "Avez vous déjà bu avant midi?",
+        "points": 2,
+        "lockedBy": "alc"
+    },
+    {
+        "title": "Quel type de boisson préférrez vous?",
+        "answers": [
+            {
+                "title": "Eau",
+                "points": 0
+            },
+            {
+                "title": "Soda",
+                "points": 1
+            },
+            {
+                "title": "Bière",
+                "points": 2
+            },
+            {
+                "title": "Cidre",
+                "points": 2
+            },
+            {
+                "title": "Alchool fort",
+                "points": 3
+            }
+        ]
+    },
+    {
+        "title": "Quel est votre record de cuite à la suite?",
+        "answers": [
+            {
+                "title": "0",
+                "points": 0
+            },
+            {
+                "title": "1",
+                "points": 1
+            },
+            {
+                "title": "2",
+                "points": 2
+            },
+            {
+                "title": "3",
+                "points": 3
+            },
+            {
+                "title": "4",
+                "points": 4
+            },
+            {
+                "title": "5",
+                "points": 5
+            },
+            {
+                "title": "6+",
+                "points": 7
+            }
+        ]
+    }
+]
